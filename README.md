@@ -1,1 +1,5 @@
-# nicomachado.github.io
+---
+layout: default
+title: About
+---
+# About Page 
