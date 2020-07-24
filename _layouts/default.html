@@ -1,13 +1,12 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-  </head>
-  <body>
-    <div>
-    {% include navigation.html %}
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
+
+  <div class="wrapper">
     {{ content }}
-    </div>
-  </body>
+  </div>
+  
+  {% include analytics.html %}
+</body>
 </html>
