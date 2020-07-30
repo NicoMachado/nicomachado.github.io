@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/AgroTracker.Feature_1.1.61.202007300927.jar" id="AgroTracker.Feature" version="1.1.61.202007300927">
+      <category name="AgroTacker"/>
+   </feature>
+   <category-def name="AgroTacker" label="AgroTracker"/>
+</site>
