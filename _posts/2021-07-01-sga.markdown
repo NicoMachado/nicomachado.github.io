@@ -7,7 +7,7 @@ img: how-to-start.jpg # Add image post (optional)
 tags: [Programming, CV] # add tag
 ---
 
-Desarrollo de  un sstema de gestión simple de gestion de cuotas.
+Desarrollo de  un sistema de gestión simple de gestion de cuotas.
 >Permite mantener la gestión administrativa de manera ágil.
 
 -- TBC --
