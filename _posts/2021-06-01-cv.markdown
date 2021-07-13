@@ -25,14 +25,13 @@ Prepared for the challenges of new technologies without losing sight of the foun
 
 
 
-> 	Programming Languages
+> Programming Languages
 
-RPG / III, RPG / IV, ILE,CLP                    (Senior Level)
-Genexus                                         (Senior Level)
-  (9.00, X Evo1, X Evo2)
-PHP                                             (Senior Level)
-Java                                            (Semi Senior Level)
-Android Development(Kotlin)                     (Semi Senior Level) 
-Spring Framework                                (Semi Senior Level)
-NodeJs/React                                    (Learning)
+|RPG / III, RPG / IV, ILE,CLP                    |(Senior Level)
+|Genexus  <br>     (9.00, X Evo1, X Evo2)        |(Senior Level)
+|PHP                                             |(Senior Level)
+|Java                                            |(Semi Senior Level)
+|Android Development(Kotlin)                     |(Semi Senior Level) 
+|Spring Framework                                |(Semi Senior Level)
+|NodeJs/React                                    |(Learning)
 
