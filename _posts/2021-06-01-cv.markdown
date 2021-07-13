@@ -1,0 +1,16 @@
+---
+layout: post
+title: CV - Nicolas Machado
+date: 2021-07-01 00:00:00 +0300
+description: Curriculum Vitae.
+img: software.jpg # Add image post (optional)
+tags: [Programming, Portfolio] # add tag
+---
+
+* Apellido : _Machado
+* Nombre   : _Nicolas
+
+* Formación Académica: _Licenciado en Sistemas . Universidad CAECE.
+
+> -- TBC --
+
