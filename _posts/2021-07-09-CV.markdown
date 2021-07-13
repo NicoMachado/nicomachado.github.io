@@ -1,0 +1,37 @@
+---
+layout: post
+title: CV - Nicolás Machado
+date: 2021-01-01 00:00:00 +0300
+description: Curriculum Vitae.
+img: software.jpg # Add image post (optional)
+tags: [Programming, CV] # add tag
+---
+
+* Apellido : Machado
+* Nombres  : Nicolas Guillermo
+
+
+> Professional Profile
+
+Graduated in Bachelor’s Degree in Computer Science from C.A.E.C.E. University in Buenos Aires, Argentina. 
+
+More than 20 years of experience working as software developer with new and legacy applications in OIL industries (PanAmerican Energy) and Automotive Industries (Scania Argentina), among others.
+
+I have a proactive attitude when facing new problems.
+
+Well organized, accurate and efficient, good sense of humor, always diplomatic and patient.
+
+Prepared for the challenges of new technologies without losing sight of the foundations of software design.
+
+
+
+> Programming Languages
+
+|RPG / III, RPG / IV, ILE,CLP                    |(Senior Level)
+|Genexus  <br>     (9.00, X Evo1, X Evo2)        |(Senior Level)
+|PHP                                             |(Senior Level)
+|Java                                            |(Semi Senior Level)
+|Android Development(Kotlin)                     |(Semi Senior Level) 
+|Spring Framework                                |(Semi Senior Level)
+|NodeJs/React                                    |(Learning)
+
