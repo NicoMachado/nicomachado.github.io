@@ -1,0 +1,14 @@
+---
+layout: post
+title: SGA - Sistema de Gestión de Administrativa de Colegios
+date: 2021-07-01 00:00:00 +0300
+description: Sistema de gestión de Cuotas para colegios privados.
+img: how-to-start.jpg # Add image post (optional)
+tags: [Programming, Learn] # add tag
+---
+
+Desarrollo de  un sstema de gestión simple de gestion de cuotas.
+>Permite mantener la gestión administrativa de manera ágil.
+
+-- TBC --
+
