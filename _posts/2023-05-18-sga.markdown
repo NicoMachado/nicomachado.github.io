@@ -1,14 +1,26 @@
 ---
 layout: post
-title: SGA - Sistema de Gestión de Administrativa de Colegios
-date: 2021-07-01 00:00:00 +0300
-description: Sistema de gestión de Cuotas para colegios privados.
+title: SGA - School Administrative Management System
+description: Fee management system for private schools.
 img: how-to-start.jpg # Add image post (optional)
 tags: [Programming, CV] # add tag
 ---
 
-Desarrollo de  un sistema de gestión simple de gestion de cuotas.
->Permite mantener la gestión administrativa de manera ágil.
+Sistema de gestión ágil de cuotas.
 
--- TBC --
+> Gestión de Alumnos
+> Gestion de Familias
+> Liquidacion y Cobro de Cuotas mensuales por conceptos recurrentes
+> Liquidaciion y cobro de cuotas extraordinarias
+> Generacion de Factura electronica.
+> Generacion de Recibo de Cobro y envio de recibo por Mail
 
+
+Agile Fee Management System.
+
+> Sudent Management
+> Family Management
+> Monthly Fee Calculation and Collection for recurring concepts
+> Extraordinary Fee Calculation and Collection
+> Generation of Electronic Invoice (Argentina)
+> Generation of Payment Receipt and sending it via Email.
